@@ -10,16 +10,6 @@ NestJS is a powerful, flexible, and progressive Node.js framework for building e
   - [Installing NestJS CLI](#installing-nestjs-cli)
   - [Creating a New Project](#creating-a-new-project)
   - [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [Core Concepts](#core-concepts)
-  - [Modules](#modules)
-  - [Controllers](#controllers)
-  - [Providers and Services](#providers-and-services)
-  - [Dependency Injection](#dependency-injection)
-- [Building a RESTful API](#building-a-restful-api)
-- [Testing](#testing)
-- [Community and Ecosystem](#community-and-ecosystem)
-- [Conclusion](#conclusion)
 
 ## What is NestJS?
 
